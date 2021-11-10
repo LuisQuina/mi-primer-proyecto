@@ -3,4 +3,7 @@ tomate
 aceite
 vinagre
 sal
+atún
+salsa
+huevos
 
